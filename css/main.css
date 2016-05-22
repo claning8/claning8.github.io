@@ -1,0 +1,42 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Raleway', sans-serif!important;
+}
+
+#navbar > ul {
+    padding-top: 13px;
+    font-size: 18px;
+    word-spacing: 20px;
+}
+
+.jumbotron {
+    position: relative;
+    padding: 100px 15px;
+    color: rgba(255, 255, 255, .8);
+    
+    background-image: url("../img/bg.png");
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.main-page {
+	background-color: #b84d45;
+}
+
+.about-page {
+	background-color: #7F99E4;
+}
+
+.contact-page {
+	background-color: #67B7AD;
+}
+
+.cv-page {
+	background-color: #67B7AD;
+}
+
+.education-page {
+	background-color: #67B7AD;
+}
